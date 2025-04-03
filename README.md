@@ -1,3 +1,7 @@
+![](Figures/fig5.png)
+
+***Modified*** Figure 2: Relative frequency distribution of RPP ($ \tilde{\Delta} P $) for clean and poisoned samples on SVHN dataset with imbalance ratios: (a) $\mu$ = 0.9, ($\rho = 2$)  and (b) $\mu$ = 0.9, \($\rho = 100$) .
+
 ![](Figures/fig8.png)
 
 ***Modified*** Figure 4: Performance comparison of RPP against Badnets backdoor attacks with perturbation magnitude 

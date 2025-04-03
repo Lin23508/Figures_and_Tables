@@ -1,6 +1,6 @@
 ![](Figures/fig5.png)
 
-***Modified*** Figure 2: Relative frequency distribution of RPP for clean and poisoned samples on SVHN dataset with imbalance ratios: (a) $\mu$ = 0.9, ($\rho = 2$)  and (b) $\mu$ = 0.9, \($\rho = 100$) .
+***Modified*** Figure 2: Relative frequency distribution of RPP for clean and poisoned samples on SVHN dataset with imbalance ratios: (a) $\mu$ = 0.9, $\rho = 2$  and (b) $\mu$ = 0.9, $\rho = 100$.
 
 ![](Figures/fig8.png)
 

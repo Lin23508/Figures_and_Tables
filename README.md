@@ -24,6 +24,12 @@ $\|\delta\|_2 \geq 0.8$, measured by TPR and FPR across balanced dataset ($\rho 
 imbalance ratios ($\rho = 2, 10, 100, 200$) for different $\sigma$ values with $\alpha = 0.05$ and 
 $n = 100$ on MNIST, SVHN and CIFAR-10 datasets.
 
+![](Figures/fig10.png)
+
+***Modified*** Figure 12: Performance comparison of RPP against Badnets backdoor attacks with 
+perturbation magnitude $\|\delta\|_2 \geq 0.8$, measured by TPR and FPR across balanced dataset ($\rho = 1$), 
+and varying imbalance ratios ($\mu = 0.9$, $\rho = 2, 10, 100, 200$) for a range of $n$ with 
+$\alpha = 0.05$ on MNIST, SVHN and CIFAR-10 datasets.
 
 ![](Figures/appendix_tinyimagenet.png)
 
@@ -39,12 +45,7 @@ perturbation magnitude $\|\delta\|_2 \geq 0.8$, measured by TPR and FPR across b
 $\alpha = 0.05$ on MNIST, SVHN, CIFAR-10, and TinyImageNet datasets.
 
 
-![](Figures/fig10.png)
 
-***Modified*** Figure 12: Performance comparison of RPP against Badnets backdoor attacks with 
-perturbation magnitude $\|\delta\|_2 \geq 0.8$, measured by TPR and FPR across balanced dataset ($\rho = 1$), 
-and varying imbalance ratios ($\mu = 0.9$, $\rho = 2, 10, 100, 200$) for a range of $n$ with 
-$\alpha = 0.05$ on MNIST, SVHN and CIFAR-10 datasets.
 
 
 

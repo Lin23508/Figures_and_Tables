@@ -14,7 +14,7 @@ imbalance ratios ($\rho = 2, 10, 100, 200$) with $n = 100$ for different $\alpha
 
 ![](Tables/Table2.PNG)
 
-***Updated*** Table2: Comparison with SoTA defense methods on 4 kinds of imbalanced CIFAR-10 datasets ($\mu = 0.9$, $\rho = 2, 10, 100, 200$).
+***Updated*** Table2: Perforamnce of RPP against eight backdoor attacks on 4 kinds of imbalanced CIFAR-10 datasets ($\mu = 0.9$, $\rho = 2, 10, 100, 200$).
 
 
 ![](Figures/fig9.png)

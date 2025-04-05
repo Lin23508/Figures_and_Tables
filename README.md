@@ -12,9 +12,9 @@
 $\|\delta\|_2 \geq 0.8$, measured by TPR and FPR across balanced datasets ($\rho = 1$), and varying 
 imbalance ratios ($\rho = 2, 10, 100, 200$) with $n = 100$ for different $\alpha$ values on the CIFAR-10 dataset.
 
-![](Tables/Table2.PNG)
+![](Tables/Table22.PNG)
 
-***Updated*** Table2: Perforamnce of RPP against eight backdoor attacks on 4 kinds of imbalanced CIFAR-10 datasets ($\mu = 0.9$, $\rho = 2, 10, 100, 200$).
+***Updated*** Table2: Comparison with SoTA defense methods on 4 kinds of imbalanced CIFAR-10 datasets ($\mu = 0.9$, $\rho = 2, 10, 100, 200$)(with blend ratio of 0.2).
 
 
 ![](Figures/fig9.png)
